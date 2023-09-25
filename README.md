@@ -12,7 +12,7 @@
 
 ### Sobre Mim 👨‍💻
 
-Olá, eu sou Thiago Pereira, um apaixonado desenvolvedor frontend. Comecei minha jornada no mundo do desenvolvimento web com HTML, CSS e JavaScript. Com o tempo, explorei frameworks como React e Vue.js para criar experiências web incríveis. Além disso, sou apaixonado por visualização de dados e utilizo o Power BI para transformar dados em insights poderosos.
+Olá, eu sou Thiago Pereira, um apaixonado desenvolvedor frontend em constante aprendizado. Atualmente, estou focando meus estudos em HTML, CSS e JavaScript para construir uma base sólida no desenvolvimento web. Tenho um forte interesse em frameworks como React, Angular e Vue.js, e estou ansioso para explorar mais essas tecnologias.
 
 ### Linguagens e Ferramentas
 
@@ -22,6 +22,7 @@ Olá, eu sou Thiago Pereira, um apaixonado desenvolvedor frontend. Comecei minha
    <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+   <img alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
    <img alt="Power BI" height="30" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg">
 </div>
 
