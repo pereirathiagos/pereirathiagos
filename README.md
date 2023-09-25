@@ -11,17 +11,31 @@
 
 Olá, sou um desenvolvedor frontend e analista de dados apaixonado por transformar ideias em soluções digitais incríveis. Minha jornada começou com HTML, CSS e JavaScript, e desde então tenho mergulhado no mundo das tecnologias web. Atualmente, estou aprimorando meu conhecimento em frameworks como React, Angular e Vue.js. Além disso, sou especializado em visualização de dados com a poderosa ferramenta Power BI.
 
-### Linguagens e Ferramentas 🛠️
+### Habilidades Técnicas (Hard Skills) 🛠️
 
-<div align="center">
-   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-   <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-   <img alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-   <img alt="Power BI" height="30" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg">
-</div>
+Aqui estão algumas das minhas habilidades técnicas:
+
+- **Desenvolvimento Web**: HTML5, CSS3, JavaScript
+- **Frameworks Frontend**: React, Vue.js, Angular
+- **Visualização de Dados**: Power BI
+- **Controle de Versão**: Git, GitHub
+- **Linguagens de Programação**: [Lista de linguagens relevantes para você]
+- **Banco de Dados**: [Se você tem experiência em bancos de dados]
+- **Ferramentas de Design**: [Se você tem experiência em ferramentas de design]
+
+Essas são algumas das habilidades técnicas que me ajudam a criar soluções digitais eficazes e de alta qualidade.
+
+### Habilidades Interpessoais (Soft Skills) 🤝
+
+Além das habilidades técnicas, minhas habilidades interpessoais também são essenciais:
+
+- **Comunicação Eficaz**: Sou capaz de transmitir ideias de maneira clara e eficaz.
+- **Trabalho em Equipe**: Trabalho bem em equipes colaborativas e contribuo para um ambiente positivo.
+- **Resolução de Problemas**: Sou habilidoso em identificar e resolver desafios técnicos e organizacionais.
+- **Adaptabilidade**: Posso me adaptar a novas tecnologias e cenários rapidamente.
+- **Liderança**: Posso liderar projetos e equipes quando necessário.
+
+Essas habilidades interpessoais complementam minhas habilidades técnicas, tornando-me um profissional completo e eficaz.
 
 ### Fique Conectado(a) 🌐
 
