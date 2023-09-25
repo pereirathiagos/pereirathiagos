@@ -29,5 +29,3 @@ Conecte-se comigo nas redes sociais e vamos continuar essa jornada juntos!
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/trspereira)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trspereira)
-
-![Snake Animation](https://github.com/thiago-rspereira/thiago-rspereira/blob/output/github-contribution-grid-snake.svg)
