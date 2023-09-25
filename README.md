@@ -19,9 +19,9 @@ Aqui estão algumas das minhas habilidades técnicas:
 - **Frameworks Frontend**: React, Vue.js, Angular
 - **Visualização de Dados**: Power BI
 - **Controle de Versão**: Git, GitHub
-- **Linguagens de Programação**: [Lista de linguagens relevantes para você]
-- **Banco de Dados**: [Se você tem experiência em bancos de dados]
-- **Ferramentas de Design**: [Se você tem experiência em ferramentas de design]
+- **Linguagens de Programação**: <i class="fab fa-python"></i> Python, <i class="fab fa-java"></i> Java, <i class="fab fa-node-js"></i> Node.js
+- **Banco de Dados**: <i class="fas fa-database"></i> MySQL, <i class="fas fa-database"></i> MongoDB
+- **Ferramentas de Design**: <i class="fab fa-figma"></i> Figma, <i class="fab fa-photoshop"></i> Photoshop
 
 Essas são algumas das habilidades técnicas que me ajudam a criar soluções digitais eficazes e de alta qualidade.
 
