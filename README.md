@@ -9,19 +9,29 @@
 
 ### Sobre Mim 🚀
 
-Olá, sou um desenvolvedor frontend e analista de dados apaixonado por transformar ideias em soluções digitais incríveis. Minha jornada começou com HTML, CSS e JavaScript, e desde então tenho mergulhado no mundo das tecnologias web. Atualmente, estou aprimorando meu conhecimento em frameworks como React, Angular e Vue.js. Além disso, sou especializado em visualização de dados com a poderosa ferramenta Power BI.
+Olá, sou um aprendiz em  desenvolvimento frontend e analista de dados apaixonado por transformar ideias em soluções digitais incríveis. Minha jornada começou com HTML, CSS e JavaScript, e desde então tenho mergulhado no mundo das tecnologias web. Atualmente, estou aprimorando meu conhecimento em frameworks como React, Angular e Vue.js. Além disso, sou especializado em visualização de dados com a poderosa ferramenta Power BI.
 
 ### Habilidades Técnicas (Hard Skills) 🛠️
 
 Aqui estão algumas das minhas habilidades técnicas:
 
-- **Desenvolvimento Web**: HTML5, CSS3, JavaScript
-- **Frameworks Frontend**: React, Vue.js, Angular
-- **Visualização de Dados**: Power BI
-- **Controle de Versão**: Git, GitHub
-- **Linguagens de Programação**: <i class="fab fa-python"></i> Python, <i class="fab fa-java"></i> Java, <i class="fab fa-node-js"></i> Node.js
-- **Banco de Dados**: <i class="fas fa-database"></i> MySQL, <i class="fas fa-database"></i> MongoDB
-- **Ferramentas de Design**: <i class="fab fa-figma"></i> Figma, <i class="fab fa-photoshop"></i> Photoshop
+- **Desenvolvimento Web**:<br> 
+  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Frameworks Frontend**:<br> 
+  ![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+- **Visualização de Dados**: <br>
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- **Controle de Versão**: <br>
+  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+- **Linguagens de Programação**: <br>
+    ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+- **Ferramentas de Design**: <br>
+  ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ 
 
 Essas são algumas das habilidades técnicas que me ajudam a criar soluções digitais eficazes e de alta qualidade.
 
@@ -33,7 +43,6 @@ Além das habilidades técnicas, minhas habilidades interpessoais também são e
 - **Trabalho em Equipe**: Trabalho bem em equipes colaborativas e contribuo para um ambiente positivo.
 - **Resolução de Problemas**: Sou habilidoso em identificar e resolver desafios técnicos e organizacionais.
 - **Adaptabilidade**: Posso me adaptar a novas tecnologias e cenários rapidamente.
-- **Liderança**: Posso liderar projetos e equipes quando necessário.
 
 Essas habilidades interpessoais complementam minhas habilidades técnicas, tornando-me um profissional completo e eficaz.
 
