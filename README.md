@@ -1,4 +1,4 @@
-# 👋 Bem-vindo(a) ao meu perfil! Eu sou Thiago Pereira.
+# 👋 Olá, Mundo! Eu sou Thiago Pereira.
 
 ## 💼 Desenvolvedor Frontend & Analista de Dados
 
@@ -7,20 +7,23 @@
 
 ## Sobre Mim 🚀
 
-Olá, sou um aprendiz em desenvolvimento frontend e analista de dados apaixonado por transformar ideias em soluções digitais incríveis. Minha jornada começou com HTML, CSS e JavaScript, e desde então tenho mergulhado no mundo das tecnologias web. Além disso, sou especializado em visualização de dados com a poderosa ferramenta Power BI.
+Olá, sou um desenvolvedor frontend e analista de dados apaixonado por transformar ideias em soluções digitais incríveis. Minha jornada começou com HTML, CSS e JavaScript, e desde então tenho mergulhado no mundo das tecnologias web. Além disso, sou especializado em visualização de dados com a poderosa ferramenta Power BI.
 
 ## Habilidades Técnicas (Hard Skills) 🛠️
 
 Aqui estão algumas das minhas habilidades técnicas:
 
 - **Desenvolvimento Web**:<br> 
-  HTML5, CSS3, JavaScript
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - **Visualização de Dados**: <br>
-  Power BI
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 - **Controle de Versão**: <br>
-  Git, GitHub
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 - **Ferramentas de Design**: <br>
-  Figma
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 Essas são algumas das habilidades técnicas que me ajudam a criar soluções digitais eficazes e de alta qualidade.
 
@@ -39,5 +42,5 @@ Essas habilidades interpessoais complementam minhas habilidades técnicas, torna
 
 Conecte-se comigo nas redes sociais e vamos continuar essa jornada juntos!
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/trspereira)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trspereira)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/trspereira)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trspereira)
