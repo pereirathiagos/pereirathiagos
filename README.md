@@ -7,7 +7,7 @@
 
 ## Sobre Mim 🚀
 
-Olá, sou um desenvolvedor frontend e analista de dados apaixonado por transformar ideias em soluções digitais incríveis. Minha jornada começou com HTML, CSS e JavaScript, e desde então tenho mergulhado no mundo das tecnologias web. Além disso, sou especializado em visualização de dados com a poderosa ferramenta Power BI.
+Olá, sou um  estudante de frontend e analista de dados apaixonado por transformar ideias em soluções digitais incríveis. Minha jornada começou com HTML, CSS e JavaScript, e desde então tenho mergulhado no mundo das tecnologias web. Além disso, sou especializado em visualização de dados com a poderosa ferramenta Power BI.
 
 ## Habilidades Técnicas (Hard Skills) 🛠️
 
