@@ -2,8 +2,8 @@
 
 ## 💼 Desenvolvedor Frontend & Analista de Dados
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiago-rspereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-rspereira&layout=compact&langs_count=8&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pereirathiagos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pereirathiagos&layout=compact&langs_count=8&theme=tokyonight)
 
 ## Sobre Mim 🚀
 
