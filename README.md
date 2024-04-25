@@ -62,4 +62,3 @@
   <a href="https://www.linkedin.com/in/trspereira"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
-![snake gif](https://github.com/pereirathiagos/pereirathiagos/blob/output/github-contribution-grid-snake.gif)
