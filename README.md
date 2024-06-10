@@ -37,6 +37,8 @@
    <!-- Tecnologias Server-side -->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30" alt="nodejs logo" />
    <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+   <img width="12" />
    
    <!-- Outras Tecnologias -->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
