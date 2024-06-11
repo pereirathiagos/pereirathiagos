@@ -1,7 +1,7 @@
 ### Olá! 👋 Eu sou o Thiago Pereira
 
 <div class="bio">
-  <h4>👨‍💻 Estudante de Desenvolvimento Web apaixonado por criar experiências incríveis na web. <br>
+  <h4>👨‍💻 Estudante de Desenvolvimento apaixonado por criar experiências incríveis na web. <br>
   🎓 Formação em Tecnologia da Informação, com experiência como Analista de Dados.</h4>
 </div>
 
